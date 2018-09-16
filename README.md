@@ -5,13 +5,7 @@
 
 * In your terminal, run `git clone https://github.com/hahnmichaelf/stats.git`
 * Cd to the new directory with `cd stats`
-* Create a `config.js` file and copy-paste the following code into it:
-```
-module.exports = {
-    'user': 'mycryptohq',
-    'repo': 'mycrypto'
-}
-```
+* Edit the `config.js` file with a text-editor like notepad++ to have the correct github user/org and repository specified
 * Replace the `user` and `repo` fields with the github repo/user that you are wanting to assess.
 * Then run `npm install` and after it has completed run `npm test`
 
