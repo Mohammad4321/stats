@@ -1,4 +1,4 @@
 module.exports = {
-    'user': 'mycryptohq',
-    'repo': 'mycrypto'
+    'user': 'iotaledger',
+    'repo': 'trinity-wallet'
 }

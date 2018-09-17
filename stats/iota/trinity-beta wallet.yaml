@@ -1,0 +1,54 @@
+- name: 'Release: desktop-v0.3.3'
+  id: 'Release ID: 12636887'
+  date: 'Release Date: 2018-08-30T07:16:05Z'
+  totalDownloads: 8769
+  downloads:
+    - name: builder-effective-config.yaml
+      downloads: 13
+    - name: iota.foundation.subkey.trinity.public.gpg
+      downloads: 15
+    - name: latest-linux.yml
+      downloads: 163
+    - name: latest-mac.yml
+      downloads: 197
+    - name: latest.yml
+      downloads: 611
+    - name: trinity-desktop-0.3.3.AppImage
+      downloads: 965
+    - name: trinity-desktop-0.3.3.AppImage.asc
+      downloads: 93
+    - name: trinity-desktop-0.3.3.dmg
+      downloads: 1819
+    - name: trinity-desktop-0.3.3.dmg.blockmap
+      downloads: 6
+    - name: trinity-desktop-0.3.3.exe
+      downloads: 4701
+    - name: trinity-desktop-0.3.3.exe.blockmap
+      downloads: 25
+    - name: trinity-desktop-0.3.3.zip
+      downloads: 161
+- name: 'Release: vdesktop-v0.3.2'
+  id: 'Release ID: 12572593'
+  date: 'Release Date: 2018-08-24T12:58:08Z'
+  totalDownloads: 10618
+  downloads:
+    - name: builder-effective-config.yaml
+      downloads: 19
+    - name: iota.foundation.subkey.trinity.public.gpg
+      downloads: 36
+    - name: latest-linux.yml
+      downloads: 200
+    - name: latest-mac.yml
+      downloads: 196
+    - name: latest.yml
+      downloads: 596
+    - name: trinity-desktop-0.3.2.AppImage
+      downloads: 1099
+    - name: trinity-desktop-0.3.2.AppImage.asc
+      downloads: 74
+    - name: trinity-desktop-0.3.2.dmg
+      downloads: 2394
+    - name: trinity-desktop-0.3.2.exe
+      downloads: 5775
+    - name: trinity-desktop-0.3.2.zip
+      downloads: 229

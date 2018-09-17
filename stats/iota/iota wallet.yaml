@@ -1,0 +1,421 @@
+- name: 'Release: v2.5.7'
+  id: 'Release ID: 9421255'
+  date: 'Release Date: 2018-01-28T23:00:52Z'
+  totalDownloads: 154423
+  downloads:
+    - name: iota-2.5.7.tar.gz
+      downloads: 10802
+    - name: iota-2.5.7.x86_64.rpm
+      downloads: 4797
+    - name: IOTA.Wallet-2.5.7.dmg
+      downloads: 29793
+    - name: IOTA.Wallet.Setup.2.5.7.exe
+      downloads: 100255
+    - name: iota_2.5.7_amd64.deb
+      downloads: 8776
+- name: 'Release: v2.5.6'
+  id: 'Release ID: 9011005'
+  date: 'Release Date: 2017-12-21T11:27:42Z'
+  totalDownloads: 186749
+  downloads:
+    - name: iota-2.5.6.tar.gz
+      downloads: 13349
+    - name: iota-2.5.6.x86_64.rpm
+      downloads: 5943
+    - name: IOTA.Wallet-2.5.6.dmg
+      downloads: 37354
+    - name: IOTA.Wallet.Setup.2.5.6.exe
+      downloads: 120965
+    - name: iota_2.5.6_amd64.deb
+      downloads: 9138
+- name: 'Release: v2.5.5'
+  id: 'Release ID: 8962056'
+  date: 'Release Date: 2017-12-19T12:36:45Z'
+  totalDownloads: 66941
+  downloads:
+    - name: iota-2.5.5.tar.gz
+      downloads: 4869
+    - name: iota-2.5.5.x86_64.rpm
+      downloads: 2086
+    - name: IOTA.Wallet-2.5.5.dmg
+      downloads: 14843
+    - name: IOTA.Wallet.Setup.2.5.5.exe
+      downloads: 42135
+    - name: iota_2.5.5_amd64.deb
+      downloads: 3008
+- name: 'Release: v2.5.4'
+  id: 'Release ID: 8459255'
+  date: 'Release Date: 2017-11-09T22:22:40Z'
+  totalDownloads: 364727
+  downloads:
+    - name: iota-2.5.4.tar.gz
+      downloads: 29038
+    - name: iota-2.5.4.x86_64.rpm
+      downloads: 14266
+    - name: IOTA.Wallet-2.5.4.dmg
+      downloads: 78959
+    - name: IOTA.Wallet.Setup.2.5.4.exe
+      downloads: 225882
+    - name: iota_2.5.4_amd64.deb
+      downloads: 16582
+- name: 'Release: v2.5.3'
+  id: 'Release ID: 8268211'
+  date: 'Release Date: 2017-10-25T18:56:23Z'
+  totalDownloads: 38369
+  downloads:
+    - name: iota-2.5.3.tar.gz
+      downloads: 2050
+    - name: iota-2.5.3.x86_64.rpm
+      downloads: 1278
+    - name: IOTA.Wallet-2.5.3.dmg
+      downloads: 8217
+    - name: IOTA.Wallet.Setup.2.5.3.exe
+      downloads: 24691
+    - name: iota_2.5.3_amd64.deb
+      downloads: 2133
+- name: 'Release: v2.5.2'
+  id: 'Release ID: 8245287'
+  date: 'Release Date: 2017-10-24T19:21:18Z'
+  totalDownloads: 14183
+  downloads:
+    - name: IOTA.Wallet-2.5.2.dmg
+      downloads: 3964
+    - name: IOTA.Wallet.Setup.2.5.2.exe
+      downloads: 10219
+- name: 'Release: v2.5.1'
+  id: 'Release ID: 7866474'
+  date: 'Release Date: 2017-09-23T22:35:06Z'
+  totalDownloads: 43406
+  downloads:
+    - name: iota-2.5.1.tar.gz
+      downloads: 2964
+    - name: iota-2.5.1.x86_64.rpm
+      downloads: 1402
+    - name: IOTA.Wallet-2.5.1.dmg
+      downloads: 9676
+    - name: IOTA.Wallet.Setup.2.5.1.1.exe
+      downloads: 26583
+    - name: iota_2.5.1_amd64.deb
+      downloads: 2781
+- name: 'Release: v2.5.0'
+  id: 'Release ID: 7864580'
+  date: 'Release Date: 2017-09-23T11:13:59Z'
+  totalDownloads: 7307
+  downloads:
+    - name: iota-2.5.0.tar.gz
+      downloads: 329
+    - name: iota-2.5.0.x86_64.rpm
+      downloads: 195
+    - name: IOTA.Wallet-2.5.0.dmg
+      downloads: 1607
+    - name: IOTA.Wallet.Setup.2.5.0.exe
+      downloads: 4788
+    - name: iota_2.5.0_amd64.deb
+      downloads: 388
+- name: 'Release: v2.4.0'
+  id: 'Release ID: 7331764'
+  date: 'Release Date: 2017-08-09T12:02:50Z'
+  totalDownloads: 126276
+  downloads:
+    - name: iota-2.4.0.tar.gz
+      downloads: 4635
+    - name: iota-2.4.0.x86_64.rpm
+      downloads: 2408
+    - name: IOTA.Wallet-2.4.0.dmg
+      downloads: 18893
+    - name: IOTA.Wallet.Setup.2.4.0.exe
+      downloads: 95728
+    - name: iota_2.4.0_amd64.deb
+      downloads: 4612
+- name: 'Release: v2.3.1'
+  id: 'Release ID: 6970091'
+  date: 'Release Date: 2017-07-07T20:11:53Z'
+  totalDownloads: 29860
+  downloads:
+    - name: iota-2.3.1.tar.gz
+      downloads: 1831
+    - name: IOTA.Wallet-2.3.1.dmg
+      downloads: 5977
+    - name: IOTA.Wallet.Setup.2.3.1.exe
+      downloads: 20418
+    - name: iota_2.3.1_amd64.deb
+      downloads: 1634
+- name: 'Release: v2.3.0'
+  id: 'Release ID: 6666299'
+  date: 'Release Date: 2017-06-09T19:01:40Z'
+  totalDownloads: 32504
+  downloads:
+    - name: iota-2.3.0.rpm
+      downloads: 1291
+    - name: iota-2.3.0.tar.gz
+      downloads: 975
+    - name: IOTA.Wallet-2.3.0.dmg
+      downloads: 6424
+    - name: IOTA.Wallet.Setup.2.3.0.exe
+      downloads: 22098
+    - name: iota_2.3.0_amd64.deb
+      downloads: 1716
+- name: 'Release: v2.2.6'
+  id: 'Release ID: 6624782'
+  date: 'Release Date: 2017-06-06T21:33:32Z'
+  totalDownloads: 10044
+  downloads:
+    - name: iota-2.2.6.rpm
+      downloads: 245
+    - name: iota-2.2.6.tar.gz
+      downloads: 183
+    - name: IOTA.Wallet-2.2.6.dmg
+      downloads: 2694
+    - name: IOTA.Wallet.Setup.2.2.6.exe
+      downloads: 6639
+    - name: iota_2.2.6_amd64.deb
+      downloads: 283
+- name: 'Release: v2.2.5'
+  id: 'Release ID: 6598119'
+  date: 'Release Date: 2017-06-04T14:51:53Z'
+  totalDownloads: 3613
+  downloads:
+    - name: iota-2.2.5.rpm
+      downloads: 170
+    - name: iota-2.2.5.tar.gz
+      downloads: 126
+    - name: IOTA.Wallet-2.2.5.dmg
+      downloads: 956
+    - name: IOTA.Wallet.Setup.2.2.5.exe
+      downloads: 2128
+    - name: iota_2.2.5_amd64.deb
+      downloads: 233
+- name: 'Release: v2.2.4'
+  id: 'Release ID: 6576899'
+  date: 'Release Date: 2017-06-01T18:38:56Z'
+  totalDownloads: 1994
+  downloads:
+    - name: iota-2.2.4.rpm
+      downloads: 99
+    - name: iota-2.2.4.tar.gz
+      downloads: 67
+    - name: IOTA.Wallet-2.2.4.dmg
+      downloads: 421
+    - name: IOTA.Wallet.Setup.2.2.4.exe
+      downloads: 1278
+    - name: iota_2.2.4_amd64.deb
+      downloads: 129
+- name: 'Release: v2.2.3'
+  id: 'Release ID: 6563733'
+  date: 'Release Date: 2017-05-31T20:18:50Z'
+  totalDownloads: 1622
+  downloads:
+    - name: iota-2.2.3.rpm
+      downloads: 67
+    - name: iota-2.2.3.tar.gz
+      downloads: 60
+    - name: IOTA.Wallet-2.2.3.dmg
+      downloads: 314
+    - name: IOTA.Wallet.Setup.2.2.3.exe
+      downloads: 1034
+    - name: iota_2.2.3_amd64.deb
+      downloads: 147
+- name: 'Release: v2.2.2-testnet'
+  id: 'Release ID: 6527071'
+  date: 'Release Date: 2017-05-27T18:56:39Z'
+  totalDownloads: 335
+  downloads:
+    - name: IOTA.Wallet.Testnet-2.2.2-testnet.dmg
+      downloads: 335
+- name: 'Release: v2.2.1-testnet'
+  id: 'Release ID: 6453801'
+  date: 'Release Date: 2017-05-15T05:47:22Z'
+  totalDownloads: 545
+  downloads:
+    - name: iota-testnet-2.2.1-testnet.rpm
+      downloads: 55
+    - name: iota-testnet-2.2.1-testnet.tar.gz
+      downloads: 59
+    - name: iota-testnet_2.2.1-testnet_amd64.deb
+      downloads: 64
+    - name: IOTA.Wallet.Testnet.Setup.2.2.1-testnet.exe
+      downloads: 367
+- name: 'Release: v2.2.0'
+  id: 'Release ID: 5892898'
+  date: 'Release Date: 2017-03-28T11:46:42Z'
+  totalDownloads: 1172
+  downloads:
+    - name: iota-2.2.0.rpm
+      downloads: 242
+    - name: iota-2.2.0.tar.gz
+      downloads: 226
+    - name: IOTA.Wallet-2.2.0.dmg
+      downloads: 522
+    - name: iota_2.2.0_amd64.deb
+      downloads: 182
+- name: 'Release: v2.1.1'
+  id: 'Release ID: 5360131'
+  date: 'Release Date: 2017-01-29T15:48:24Z'
+  totalDownloads: 6262
+  downloads:
+    - name: iota-2.1.1.tar.gz
+      downloads: 208
+    - name: IOTA.Wallet-2.1.1.dmg
+      downloads: 569
+    - name: IOTA.Wallet.Setup.2.1.1.exe
+      downloads: 5206
+    - name: iota_2.1.1_amd64.deb
+      downloads: 279
+- name: 'Release: v2.1.0'
+  id: 'Release ID: 5217414'
+  date: 'Release Date: 2017-01-20T11:34:44Z'
+  totalDownloads: 1084
+  downloads:
+    - name: iota-2.1.0.tar.gz
+      downloads: 80
+    - name: IOTA.Wallet-2.1.0.dmg
+      downloads: 156
+    - name: IOTA.Wallet.Setup.2.1.0.exe
+      downloads: 747
+    - name: iota_2.1.0_amd64.deb
+      downloads: 101
+- name: 'Release: 2.0.2-1'
+  id: 'Release ID: 4998818'
+  date: 'Release Date: 2016-12-23T10:01:42Z'
+  totalDownloads: 451
+  downloads:
+    - name: iota-2.0.2-1.rpm
+      downloads: 16
+    - name: IOTA.Wallet-2.0.2-1.dmg
+      downloads: 58
+    - name: IOTA.Wallet.Setup.2.0.2-1.exe
+      downloads: 286
+    - name: iota_2.0.2-1_amd64.deb
+      downloads: 56
+    - name: iota_2.0.2-1_i386.deb
+      downloads: 35
+- name: 'Release: 2.0.2'
+  id: 'Release ID: 4962805'
+  date: 'Release Date: 2016-12-19T20:08:51Z'
+  totalDownloads: 390
+  downloads:
+    - name: IOTA.Wallet-2.0.2.dmg
+      downloads: 61
+    - name: IOTA.Wallet.Setup.2.0.2.exe
+      downloads: 246
+    - name: iota_2.0.2_amd64.deb
+      downloads: 51
+    - name: iota_2.0.2_i386.deb
+      downloads: 32
+- name: 'Release: 2.0.0'
+  id: 'Release ID: 4824173'
+  date: 'Release Date: 2016-12-03T16:27:02Z'
+  totalDownloads: 818
+  downloads:
+    - name: IOTA-Wallet-2.0.0.deb
+      downloads: 89
+    - name: IOTA-Wallet-2.0.0.dmg
+      downloads: 110
+    - name: IOTA-Wallet-2.0.0.exe
+      downloads: 482
+    - name: IOTA-Wallet-2.0.0.rpm
+      downloads: 18
+    - name: IOTA-Wallet-2.0.0.tar.gz
+      downloads: 33
+    - name: IOTA-Wallet-2.0.0_32bit.deb
+      downloads: 34
+    - name: IOTA-Wallet-2.0.0_32bit.rpm
+      downloads: 26
+    - name: IOTA-Wallet-2.0.0_32bit.tar.gz
+      downloads: 26
+- name: 'Release: 2.0.0-alpha'
+  id: 'Release ID: 4820877'
+  date: 'Release Date: 2016-12-02T19:49:57Z'
+  totalDownloads: 227
+  downloads:
+    - name: iota-2.0.0.tar.gz
+      downloads: 12
+    - name: IOTA.Wallet-2.0.0-mac.zip
+      downloads: 26
+    - name: IOTA.Wallet.Setup.2.0.0.exe
+      downloads: 153
+    - name: iota_2.0.0_amd64.deb
+      downloads: 21
+    - name: iota_2.0.0_i386.deb
+      downloads: 15
+- name: 'Release: 1.0.6'
+  id: 'Release ID: 4196120'
+  date: 'Release Date: 2016-09-21T18:22:58Z'
+  totalDownloads: 577
+  downloads:
+    - name: iota-1.0.6-ia32.deb
+      downloads: 32
+    - name: iota-1.0.6.deb
+      downloads: 80
+    - name: IOTA.Wallet-1.0.6.dmg
+      downloads: 105
+    - name: IOTA.Wallet.Setup.1.0.6.exe
+      downloads: 360
+- name: 'Release: 1.0.5.1'
+  id: 'Release ID: 4098942'
+  date: 'Release Date: 2016-09-11T09:25:33Z'
+  totalDownloads: 642
+  downloads:
+    - name: iota-1.0.5-ia32.deb
+      downloads: 29
+    - name: iota-1.0.5-ia32.rpm
+      downloads: 10
+    - name: iota-1.0.5.deb
+      downloads: 66
+    - name: iota-1.0.5.rpm
+      downloads: 13
+    - name: IOTA.Wallet-1.0.5.dmg
+      downloads: 93
+    - name: IOTA.Wallet.Setup.1.0.5.exe
+      downloads: 431
+- name: 'Release: 1.0.5'
+  id: 'Release ID: 4069336'
+  date: 'Release Date: 2016-08-28T22:28:41Z'
+  totalDownloads: 334
+  downloads:
+    - name: iota-1.0.5-ia32.deb
+      downloads: 23
+    - name: iota-1.0.5.deb
+      downloads: 65
+    - name: IOTA.Wallet-1.0.5.dmg
+      downloads: 64
+    - name: IOTA.Wallet.Setup.1.0.5.exe
+      downloads: 182
+- name: 'Release: 1.0.4.beta'
+  id: 'Release ID: 4001414'
+  date: 'Release Date: 2016-08-29T13:47:33Z'
+  totalDownloads: 603
+  downloads:
+    - name: iota-1.0.4-ia32.deb
+      downloads: 32
+    - name: iota-1.0.4-ia32.rpm
+      downloads: 12
+    - name: iota-1.0.4.deb
+      downloads: 60
+    - name: iota-1.0.4.rpm
+      downloads: 22
+    - name: IOTA.Wallet-1.0.4.dmg
+      downloads: 104
+    - name: IOTA.Wallet.Setup.1.0.4.exe
+      downloads: 373
+- name: 'Release: 1.0.3'
+  id: 'Release ID: 3996941'
+  date: 'Release Date: 2016-08-28T22:28:41Z'
+  totalDownloads: 254
+  downloads:
+    - name: iota-1.0.3-ia32.deb
+      downloads: 7
+    - name: iota-1.0.3-ia32.rpm
+      downloads: 7
+    - name: iota-1.0.3-ia32.tar.gz
+      downloads: 16
+    - name: iota-1.0.3.deb
+      downloads: 19
+    - name: iota-1.0.3.rpm
+      downloads: 7
+    - name: iota-1.0.3.tar.gz
+      downloads: 17
+    - name: IOTA.Wallet-1.0.3.dmg
+      downloads: 39
+    - name: IOTA.Wallet.Setup.1.0.3.exe
+      downloads: 142
