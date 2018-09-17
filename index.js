@@ -11,7 +11,9 @@ const f = () => {
         }
     }
     req.get('https://api.github.com/repos/' + config.user + '/' + config.repo + '/releases', options, (error, response, body) => {
-        if(!error) {
+        if(error) console.log("ERROR: " + error)
+        if(response.statusCode === 404) console.log('ERROR: Github Repo ' + config.user + '/' + config.repo + ' not found.')
+        if(!error && response.statusCode === 200) {
             body = JSON.parse(body)
             var entities = []
             body.forEach((release) => {
@@ -34,9 +36,12 @@ const f = () => {
             })
             fs.writeFile('./data.yaml', yaml.safeDump(entities), 'utf8', function(err, out) {
                 if(err) console.log(err)
+                console.log('Finished successfully')
             })
         }
-        if (error) console.log("ERROR: " + error)
+        else {
+            console.log('ERROR: Unknown error')
+        }
     });
 
 }

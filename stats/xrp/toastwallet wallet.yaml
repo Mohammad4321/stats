@@ -1,0 +1,13 @@
+- name: 'Release: v2.1.37'
+  id: 'Release ID: 9231641'
+  date: 'Release Date: 2018-01-14T07:36:02Z'
+  totalDownloads: 97
+  downloads:
+    - name: ToastWallet-2.1.37-x86_64.AppImage
+      downloads: 26
+    - name: ToastWallet-2.1.37.appx
+      downloads: 6
+    - name: ToastWallet-2.1.37.dmg
+      downloads: 20
+    - name: ToastWallet.Setup.2.1.37.exe
+      downloads: 45

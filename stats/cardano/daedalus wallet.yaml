@@ -1,0 +1,56 @@
+- name: 'Release: 0.11.0'
+  id: 'Release ID: 12325899'
+  date: 'Release Date: 2018-08-08T04:46:04Z'
+  totalDownloads: 281
+  downloads:
+    - name: daedalus-0.11.0-cardano-sl-1.3.0-mainnet-macos-2260.pkg
+      downloads: 108
+    - name: daedalus-0.11.0-cardano-sl-1.3.0-mainnet-macos-2260.pkg.asc
+      downloads: 8
+    - name: daedalus-0.11.0-cardano-sl-1.3.0-mainnet-windows-8183.exe
+      downloads: 146
+    - name: daedalus-0.11.0-cardano-sl-1.3.0-mainnet-windows-8183.exe.asc
+      downloads: 19
+- name: 'Release: 0.10.1'
+  id: 'Release ID: 11477491'
+  date: 'Release Date: 2018-06-11T08:38:38Z'
+  totalDownloads: 181
+  downloads:
+    - name: daedalus-0.10.1-cardano-sl-1.2.1.1768-mainnet-macos.pkg
+      downloads: 57
+    - name: daedalus-0.10.1-cardano-sl-1.2.1.7310.0-mainnet-windows.exe
+      downloads: 124
+- name: 'Release: 0.10.0'
+  id: 'Release ID: 11237207'
+  date: 'Release Date: 2018-05-22T18:07:53Z'
+  totalDownloads: 117
+  downloads:
+    - name: daedalus-0.10.0-cardano-sl-1.2.0.6831.0-mainnet-windows.exe
+      downloads: 67
+    - name: daedalus-0.10.0-cardano-sl-dev.1548-mainnet-macos.pkg
+      downloads: 50
+- name: 'Release: 0.9.1'
+  id: 'Release ID: 10411410'
+  date: 'Release Date: 2018-04-05T12:17:49Z'
+  totalDownloads: 314
+  downloads:
+    - name: Daedalus-installer-1.1.1.952.pkg
+      downloads: 77
+    - name: daedalus-win64-1.1.5813.0-installer.exe
+      downloads: 237
+- name: 'Release: 0.9.0'
+  id: 'Release ID: 9974864'
+  date: 'Release Date: 2018-03-05T12:03:32Z'
+  totalDownloads: 416
+  downloads:
+    - name: Daedalus-installer-1.1.0.408.pkg
+      downloads: 184
+    - name: daedalus-win64-1.1.4883.0-installer.exe
+      downloads: 232
+- name: 'Release: 0.5.0'
+  id: 'Release ID: 4750665'
+  date: 'Release Date: 2016-11-24T12:12:36Z'
+  totalDownloads: 41
+  downloads:
+    - name: Daedalus.0.5.0.zip
+      downloads: 41

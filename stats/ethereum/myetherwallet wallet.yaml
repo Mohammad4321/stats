@@ -1,0 +1,378 @@
+- name: 'Release: v3.21.24'
+  id: 'Release ID: 12871280'
+  date: 'Release Date: 2018-09-12T23:17:20Z'
+  totalDownloads: 591
+  downloads:
+    - name: chrome-extension-v3.21.24.zip
+      downloads: 58
+    - name: chrome-extension-v3.21.24.zip.sig
+      downloads: 19
+    - name: etherwallet-v3.21.24.zip
+      downloads: 457
+    - name: etherwallet-v3.21.24.zip.sig
+      downloads: 57
+- name: 'Release: v3.21.23'
+  id: 'Release ID: 12730804'
+  date: 'Release Date: 2018-09-04T23:33:49Z'
+  totalDownloads: 1197
+  downloads:
+    - name: chrome-extension-v3.21.23.zip
+      downloads: 149
+    - name: chrome-extension-v3.21.23.zip.sig
+      downloads: 39
+    - name: etherwallet-v3.21.23.zip
+      downloads: 910
+    - name: etherwallet-v3.21.23.zip.sig
+      downloads: 99
+- name: 'Release: v3.21.22'
+  id: 'Release ID: 12464559'
+  date: 'Release Date: 2018-08-18T02:43:37Z'
+  totalDownloads: 2919
+  downloads:
+    - name: chrome-extension-v3.21.22.zip
+      downloads: 403
+    - name: chrome-extension-v3.21.22.zip.sig
+      downloads: 67
+    - name: etherwallet-v3.21.22.zip
+      downloads: 2242
+    - name: etherwallet-v3.21.22.zip.sig
+      downloads: 207
+- name: 'Release: v3.21.21'
+  id: 'Release ID: 12386478'
+  date: 'Release Date: 2018-08-13T21:56:54Z'
+  totalDownloads: 805
+  downloads:
+    - name: chrome-extension-v3.21.21.zip
+      downloads: 83
+    - name: chrome-extension-v3.21.21.zip.sig
+      downloads: 41
+    - name: etherwallet-v3.21.21.zip
+      downloads: 617
+    - name: etherwallet-v3.21.21.zip.sig
+      downloads: 64
+- name: 'Release: gpg2'
+  id: 'Release ID: 12357162'
+  date: 'Release Date: 2018-03-09T06:19:42Z'
+  totalDownloads: 4
+  downloads:
+    - name: chrome-extension-v3.21.0.zip
+      downloads: 1
+    - name: chrome-extension-v3.21.0.zip.sig
+      downloads: 1
+    - name: etherwallet-v3.21.0.zip
+      downloads: 1
+    - name: etherwallet-v3.21.0.zip.sig
+      downloads: 1
+- name: 'Release: v3.21.20'
+  id: 'Release ID: 12357107'
+  date: 'Release Date: 2018-08-10T21:25:45Z'
+  totalDownloads: 612
+  downloads:
+    - name: chrome-extension-v3.21.20.zip
+      downloads: 84
+    - name: chrome-extension-v3.21.20.zip.sig
+      downloads: 15
+    - name: etherwallet-v3.21.20.zip
+      downloads: 455
+    - name: etherwallet-v3.21.20.zip.sig
+      downloads: 58
+- name: 'Release: v3.21.19'
+  id: 'Release ID: 12277150'
+  date: 'Release Date: 2018-08-06T19:57:24Z'
+  totalDownloads: 830
+  downloads:
+    - name: chrome-extension-v3.21.19.zip
+      downloads: 121
+    - name: chrome-extension-v3.21.19.zip.sig
+      downloads: 21
+    - name: etherwallet-v3.21.19.zip
+      downloads: 651
+    - name: etherwallet-v3.21.19.zip.sig
+      downloads: 37
+- name: 'Release: v3.21.18'
+  id: 'Release ID: 12193075'
+  date: 'Release Date: 2018-07-31T21:03:00Z'
+  totalDownloads: 1307
+  downloads:
+    - name: chrome-extension-v3.21.18.zip
+      downloads: 186
+    - name: chrome-extension-v3.21.18.zip.sig
+      downloads: 35
+    - name: etherwallet-v3.21.18.zip
+      downloads: 978
+    - name: etherwallet-v3.21.18.zip.sig
+      downloads: 108
+- name: 'Release: v3.21.17'
+  id: 'Release ID: 11976406'
+  date: 'Release Date: 2018-07-17T22:50:36Z'
+  totalDownloads: 2865
+  downloads:
+    - name: chrome-extension-v3.21.17.zip
+      downloads: 379
+    - name: chrome-extension-v3.21.17.zip.sig
+      downloads: 58
+    - name: etherwallet-v3.21.17.zip
+      downloads: 2182
+    - name: etherwallet-v3.21.17.zip.sig
+      downloads: 246
+- name: 'Release: v3.21.16'
+  id: 'Release ID: 11842540'
+  date: 'Release Date: 2018-07-09T17:22:26Z'
+  totalDownloads: 1797
+  downloads:
+    - name: chrome-extension-v3.21.16.zip
+      downloads: 239
+    - name: chrome-extension-v3.21.16.zip.sig
+      downloads: 45
+    - name: etherwallet-v3.21.16.zip
+      downloads: 1333
+    - name: etherwallet-v3.21.16.zip.sig
+      downloads: 180
+- name: 'Release: v3.21.15'
+  id: 'Release ID: 11702821'
+  date: 'Release Date: 2018-06-29T00:02:46Z'
+  totalDownloads: 2279
+  downloads:
+    - name: chrome-extension-v3.21.15.zip
+      downloads: 338
+    - name: chrome-extension-v3.21.15.zip.sig
+      downloads: 43
+    - name: etherwallet-v3.21.15.zip
+      downloads: 1726
+    - name: etherwallet-v3.21.15.zip.sig
+      downloads: 172
+- name: 'Release: v3.21.14'
+  id: 'Release ID: 11702333'
+  date: 'Release Date: 2018-06-28T23:08:40Z'
+  totalDownloads: 24
+  downloads:
+    - name: chrome-extension-v3.21.14.zip
+      downloads: 3
+    - name: chrome-extension-v3.21.14.zip.sig
+      downloads: 2
+    - name: etherwallet-v3.21.14.zip
+      downloads: 16
+    - name: etherwallet-v3.21.14.zip.sig
+      downloads: 3
+- name: 'Release: v3.21.13'
+  id: 'Release ID: 11426960'
+  date: 'Release Date: 2018-06-11T19:08:09Z'
+  totalDownloads: 4081
+  downloads:
+    - name: chrome-extension-v3.21.13.zip
+      downloads: 530
+    - name: chrome-extension-v3.21.13.zip.sig
+      downloads: 91
+    - name: etherwallet-v3.21.13.zip
+      downloads: 3160
+    - name: etherwallet-v3.21.13.zip.sig
+      downloads: 300
+- name: 'Release: v3.21.12'
+  id: 'Release ID: 11185922'
+  date: 'Release Date: 2018-05-25T21:41:57Z'
+  totalDownloads: 6100
+  downloads:
+    - name: chrome-extension-v3.21.12.zip
+      downloads: 817
+    - name: chrome-extension-v3.21.12.zip.sig
+      downloads: 131
+    - name: etherwallet-v3.21.12.zip
+      downloads: 4779
+    - name: etherwallet-v3.21.12.zip.sig
+      downloads: 373
+- name: 'Release: v3.21.11'
+  id: 'Release ID: 10972323'
+  date: 'Release Date: 2018-05-12T19:38:11Z'
+  totalDownloads: 6103
+  downloads:
+    - name: chrome-extension-v3.21.11.zip
+      downloads: 762
+    - name: chrome-extension-v3.21.11.zip.sig
+      downloads: 136
+    - name: etherwallet-v3.21.11.zip
+      downloads: 4714
+    - name: etherwallet-v3.21.11.zip.sig
+      downloads: 491
+- name: 'Release: v3.21.10'
+  id: 'Release ID: 10930994'
+  date: 'Release Date: 2018-05-09T21:46:26Z'
+  totalDownloads: 1421
+  downloads:
+    - name: chrome-extension-v3.21.10.zip
+      downloads: 197
+    - name: chrome-extension-v3.21.10.zip.sig
+      downloads: 28
+    - name: etherwallet-v3.21.10.zip
+      downloads: 1099
+    - name: etherwallet-v3.21.10.zip.sig
+      downloads: 97
+- name: 'Release: v3.21.09'
+  id: 'Release ID: 10845280'
+  date: 'Release Date: 2018-05-04T01:14:53Z'
+  totalDownloads: 2997
+  downloads:
+    - name: chrome-extension-v3.21.09.zip
+      downloads: 370
+    - name: chrome-extension-v3.21.09.zip.sig
+      downloads: 76
+    - name: etherwallet-v3.21.09.zip
+      downloads: 2304
+    - name: etherwallet-v3.21.09.zip.sig
+      downloads: 247
+- name: 'Release: v3.21.08'
+  id: 'Release ID: 10685672'
+  date: 'Release Date: 2018-04-24T03:01:54Z'
+  totalDownloads: 14116
+  downloads:
+    - name: chrome-extension-v3.21.08.zip
+      downloads: 1296
+    - name: chrome-extension-v3.21.08.zip.sig
+      downloads: 239
+    - name: etherwallet-v3.21.08.zip
+      downloads: 11824
+    - name: etherwallet-v3.21.08.zip.sig
+      downloads: 757
+- name: 'Release: v3.21.07'
+  id: 'Release ID: 10543395'
+  date: 'Release Date: 2018-04-13T22:03:33Z'
+  totalDownloads: 3846
+  downloads:
+    - name: chrome-extension-v3.21.07.zip
+      downloads: 554
+    - name: chrome-extension-v3.21.07.zip.sig
+      downloads: 134
+    - name: etherwallet-v3.21.07.zip
+      downloads: 2824
+    - name: etherwallet-v3.21.07.zip.sig
+      downloads: 334
+- name: 'Release: v3.21.06'
+  id: 'Release ID: 10504603'
+  date: 'Release Date: 2018-04-11T20:52:51Z'
+  totalDownloads: 800
+  downloads:
+    - name: chrome-extension-v3.21.06.zip
+      downloads: 99
+    - name: chrome-extension-v3.21.06.zip.sig
+      downloads: 31
+    - name: etherwallet-v3.21.06.zip
+      downloads: 591
+    - name: etherwallet-v3.21.06.zip.sig
+      downloads: 79
+- name: 'Release: v3.21.05'
+  id: 'Release ID: 10382179'
+  date: 'Release Date: 2018-04-04T01:41:23Z'
+  totalDownloads: 2450
+  downloads:
+    - name: chrome-extension-v3.21.05.zip
+      downloads: 358
+    - name: chrome-extension-v3.21.05.zip.sig
+      downloads: 92
+    - name: etherwallet-v3.21.05.zip
+      downloads: 1813
+    - name: etherwallet-v3.21.05.zip.sig
+      downloads: 187
+- name: 'Release: v3.21.04'
+  id: 'Release ID: 10381018'
+  date: 'Release Date: 2018-04-03T23:09:36Z'
+  totalDownloads: 75
+  downloads:
+    - name: chrome-extension-v3.21.04.zip
+      downloads: 14
+    - name: chrome-extension-v3.21.04.zip.sig
+      downloads: 7
+    - name: etherwallet-v3.21.04.zip
+      downloads: 40
+    - name: etherwallet-v3.21.04.zip.sig
+      downloads: 14
+- name: 'Release: v3.21.03'
+  id: 'Release ID: 10221488'
+  date: 'Release Date: 2018-03-23T00:14:11Z'
+  totalDownloads: 4456
+  downloads:
+    - name: chrome-extension-v3.21.03.zip
+      downloads: 767
+    - name: chrome-extension-v3.21.03.zip.sig
+      downloads: 158
+    - name: etherwallet-v3.21.03.zip
+      downloads: 3227
+    - name: etherwallet-v3.21.03.zip.sig
+      downloads: 304
+- name: 'Release: v3.21.02'
+  id: 'Release ID: 10092434'
+  date: 'Release Date: 2018-03-14T21:04:16Z'
+  totalDownloads: 3568
+  downloads:
+    - name: chrome-extension-v3.21.02.zip
+      downloads: 574
+    - name: chrome-extension-v3.21.02.zip.sig
+      downloads: 106
+    - name: etherwallet-v3.21.02.zip
+      downloads: 2622
+    - name: etherwallet-v3.21.02.zip.sig
+      downloads: 266
+- name: 'Release: v3.21.01'
+  id: 'Release ID: 10075671'
+  date: 'Release Date: 2018-03-14T01:30:23Z'
+  totalDownloads: 470
+  downloads:
+    - name: chrome-extension-v3.21.01.zip
+      downloads: 53
+    - name: chrome-extension-v3.21.01.zip.sig
+      downloads: 11
+    - name: etherwallet-v3.21.01.zip
+      downloads: 361
+    - name: etherwallet-v3.21.01.zip.sig
+      downloads: 45
+- name: 'Release: v3.21.0'
+  id: 'Release ID: 10011422'
+  date: 'Release Date: 2018-03-09T06:19:43Z'
+  totalDownloads: 2469
+  downloads:
+    - name: chrome-extension-v3.21.0.zip
+      downloads: 373
+    - name: chrome-extension-v3.21.0.zip.sig
+      downloads: 79
+    - name: etherwallet-v3.21.0.zip
+      downloads: 1831
+    - name: etherwallet-v3.21.0.zip.sig
+      downloads: 186
+- name: 'Release: v3.20.03-GPG'
+  id: 'Release ID: 9990375'
+  date: 'Release Date: 2018-03-08T01:00:31Z'
+  totalDownloads: 779
+  downloads:
+    - name: chrome-extension-v3.20.03.zip
+      downloads: 145
+    - name: chrome-extension-v3.20.03.zip.asc
+      downloads: 41
+    - name: etherwallet-v3.20.03.zip
+      downloads: 522
+    - name: etherwallet-v3.20.03.zip.asc
+      downloads: 71
+- name: 'Release: v3.20.03'
+  id: 'Release ID: 9952380'
+  date: 'Release Date: 2018-03-06T03:19:06Z'
+  totalDownloads: 1163
+  downloads:
+    - name: chrome-extension-v3.20.03.zip
+      downloads: 172
+    - name: etherwallet-v3.20.03.zip
+      downloads: 991
+- name: 'Release: v3.20.02'
+  id: 'Release ID: 9951685'
+  date: 'Release Date: 2018-03-06T01:41:54Z'
+  totalDownloads: 48
+  downloads:
+    - name: chrome-extension-v3.20.02.zip
+      downloads: 9
+    - name: etherwallet-v3.20.02.zip
+      downloads: 39
+- name: 'Release: v3.20.01'
+  id: 'Release ID: 9816035'
+  date: 'Release Date: 2018-02-24T02:51:45Z'
+  totalDownloads: 6920
+  downloads:
+    - name: chrome-extension-v3.20.01.zip
+      downloads: 1077
+    - name: etherwallet-v3.20.01.zip
+      downloads: 5843
